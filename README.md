@@ -63,7 +63,7 @@ Practical projects and supporting evidence will be added as they are completed a
 
 ## 🌐 Connect With Me
 
-* **LinkedIn:** [Add my LinkedIn profile here](https://www.linkedin.com/in/navidkhanokrazai/)
+* **LinkedIn:** - **LinkedIn:** https://www.linkedin.com/in/navidkhanokrazai/
 * **Portfolio:** Coming soon
 * **ZAR Technologies:** 
 
