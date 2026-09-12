@@ -63,9 +63,11 @@ Practical projects and supporting evidence will be added as they are completed a
 
 ## 🌐 Connect With Me
 
-* **LinkedIn:** - **LinkedIn:** https://www.linkedin.com/in/navidkhanokrazai/
+* **LinkedIn:** https://www.linkedin.com/in/navidkhanokrazai/
 * **Portfolio:** Coming soon
-* **ZAR Technologies:** 
+* **ZAR Technologies:** https://zar-website-eta.vercel.app/
+
+---
 
 ---
 
